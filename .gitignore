@@ -1,0 +1,14 @@
+# Don't track content of these folders
+CMakeFiles/
+source/CMakeFiles
+test/CMakeFiles
+ui/CMakeFiles
+
+# CMake Output
+*.vcxproj
+*.filters
+*.cmake
+*.sln
+CMakeCache.txt
+
+# Compiled Source
