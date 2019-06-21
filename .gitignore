@@ -3,6 +3,8 @@ CMakeFiles/
 source/CMakeFiles
 test/CMakeFiles
 ui/CMakeFiles
+source/lib.dir/
+x64/
 
 # CMake Output
 *.vcxproj
