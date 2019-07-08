@@ -1,0 +1,26 @@
+# Don't track content of these folders
+CMakeFiles/
+source/CMakeFiles/
+source/lib.dir/
+test/CMakeFiles/
+ui/CMakeFiles/
+ui/release/
+x64/
+
+# CMake Output
+*.vcxproj
+*.filters
+*.cmake
+*.sln
+CMakeCache.txt
+
+# QMake Output
+*.Debug
+*.Release
+.qmake.stash
+*.pro
+uic_wrapper.bat
+ui_mainwindow.h
+Makefile
+
+# Compiled Source
