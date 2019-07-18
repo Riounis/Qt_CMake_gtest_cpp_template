@@ -1,5 +1,6 @@
 # Don't track content of these folders
 CMakeFiles/
+Debug/
 src/CMakeFiles/
 src/lib.dir/
 test/CMakeFiles/
