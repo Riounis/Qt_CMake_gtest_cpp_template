@@ -1,11 +1,12 @@
 # Don't track content of these folders
 CMakeFiles/
-source/CMakeFiles/
-source/lib.dir/
+src/CMakeFiles/
+src/lib.dir/
 test/CMakeFiles/
 ui/CMakeFiles/
 ui/release/
 x64/
+Win32/
 
 # CMake Output
 *.vcxproj
