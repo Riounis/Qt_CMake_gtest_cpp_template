@@ -1,3 +1,5 @@
+The purpose of this project is to provide a template for projects which use a homebuilt c++ static library with a gui in a desktop application.
+
 BUILD INSTRUCTIONS:
 Windows:
 1) In root directory, run
